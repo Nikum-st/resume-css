@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    background: #e5dfc8;
+    color: #383c56;
+    
+}
+
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+
+
+}
+
+.info {
+    font-style: italic;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 1em;
+    opacity: .6;
+   
+
+       }
+#header img{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 25%;
+    box-shadow: 18px 20px 11px 7px hwb(0 0% 100% / 0.4) ;
+
+}
+/* #header h1{
+    text-shadow: 2px 4px 6px rgb(0, 0, 0);
+
+} */
+
+#footer{
+ 
+    
+}
+
+.card{
+    border-radius: 15px;
+    padding: 25px;
+    margin-bottom: 50px;
+
+}
+
+#experience{
+    background: #cec4d1;
+
+}
+
+#hobbies{
+    background: #ffca84b6;
+
+}
+
+#skills{
+    background: #d6aea7;
+
+}
+
+
+
+
+
